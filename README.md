@@ -26,4 +26,5 @@ b). During some time interval, a new floater will randomly put
 
 Score and level:
 Score: the current score and level will be shown on the left-top corner.
+
 Level-up rule: Level will add one every time user earns 10000 points.
